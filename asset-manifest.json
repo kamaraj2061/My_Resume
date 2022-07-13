@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kamaraj2061/My_Resume/static/css/main.41dcc61a.css",
+    "main.js": "/kamaraj2061/My_Resume/static/js/main.55df53a5.js",
+    "static/js/787.7c4fc8d6.chunk.js": "/kamaraj2061/My_Resume/static/js/787.7c4fc8d6.chunk.js",
+    "static/media/MyPhoto.jpg": "/kamaraj2061/My_Resume/static/media/MyPhoto.bed425720e58331a9c12.jpg",
+    "index.html": "/kamaraj2061/My_Resume/index.html",
+    "main.41dcc61a.css.map": "/kamaraj2061/My_Resume/static/css/main.41dcc61a.css.map",
+    "main.55df53a5.js.map": "/kamaraj2061/My_Resume/static/js/main.55df53a5.js.map",
+    "787.7c4fc8d6.chunk.js.map": "/kamaraj2061/My_Resume/static/js/787.7c4fc8d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41dcc61a.css",
+    "static/js/main.55df53a5.js"
+  ]
+}
